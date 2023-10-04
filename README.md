@@ -6,8 +6,8 @@ Soy Teo Beltrán
 
 Soy un apasionado desarrollador estudiante y me encanta aprender nuevas tecnologías y resolver desafíos complejos. 
 
-## Mis Habilidades
 
+## Mis Habilidades
 ### Lenguajes de Programación
 
 - C#
@@ -23,14 +23,17 @@ Soy un apasionado desarrollador estudiante y me encanta aprender nuevas tecnolog
 - Django
 - Bootstrap
 
+
 ### Bases de Datos
 
 - MySQL
 - MongoDB
 
-## Estadísticas de GitHub
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TeoBeltran&show_icons=true&theme=radical)](https://github.com/TeoBeltran)
+## Lenguajes más utilizados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoBeltran&layout=compact&theme=radical)](https://github.com/TeoBeltran)
+
 
 ## Contáctame
 
