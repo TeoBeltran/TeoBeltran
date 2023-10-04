@@ -36,5 +36,5 @@ Soy un apasionado desarrollador estudiante y me encanta aprender nuevas tecnolog
 
 Puedes encontrarme en LinkedIn y enviarme un correo electrónico:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/teo-beltr%C3%A1n-nanziot-392346183/(https://ar.linkedin.com/in/teo-beltr%C3%A1n-nanziot-392346183)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/teo-beltr%C3%A1n-nanziot-392346183/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:teo.belnan@gmail.com)
