@@ -1,16 +1,40 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**TeoBeltran/TeoBeltran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Teo Beltrán
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un apasionado desarrollador estudiante y me encanta aprender nuevas tecnologías y resolver desafíos complejos. 
+
+## Mis Habilidades
+
+### Lenguajes de Programación
+
+- C#
+- C++
+- JavaScript
+- HTML
+- CSS
+
+### Tecnologías y Frameworks
+
+- React
+- Node.js
+- Django
+- Bootstrap
+
+### Bases de Datos
+
+- MySQL
+- MongoDB
+
+## Estadísticas de GitHub
+
+[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical)](https://github.com/TeoBeltran)
+
+## Contáctame
+
+Puedes encontrarme en LinkedIn y enviarme un correo electrónico:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/[TU_PERFIL_LINKEDIN](https://ar.linkedin.com/in/teo-beltr%C3%A1n-nanziot-392346183)/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:teo.belnan@gmail.com)
