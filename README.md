@@ -1,11 +1,9 @@
-# ¡Hola! 👋
-
-Soy Teo Beltrán
+# Teo Beltrán.
 
 ## Acerca de mí
-
-Soy un apasionado desarrollador estudiante y me encanta aprender nuevas tecnologías y resolver desafíos complejos. 
-
+Hola! Me llamo Teo Beltrán Nanziot y tengo 23 años.
+Soy estudiante de programación en la UTN.
+Me gustan las computadores y todo lo que se relacione a ellas. También soy un amante del football.
 
 ## Mis Habilidades
 ### Lenguajes de Programación
