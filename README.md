@@ -6,11 +6,12 @@ Soy estudiante de programación en la UTN.
 Me gustan las computadores y todo lo que se relacione a ellas. También soy un amante del football.
 
 ## Mis Habilidades
-### Lenguajes de Programación
+### Programación
 
 - C#
 - C++
 - JavaScript
+- Java
 - HTML
 - CSS
 
@@ -25,7 +26,6 @@ Me gustan las computadores y todo lo que se relacione a ellas. También soy un a
 ### Bases de Datos
 
 - MySQL
-- MongoDB
 
 
 ## Lenguajes más utilizados
