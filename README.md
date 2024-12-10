@@ -12,20 +12,21 @@ Me gustan las computadores y todo lo que se relacione a ellas. También soy un a
 - C++
 - JavaScript
 - Java
+- Python
+
+### Desarrollo Web y Frontend
+
 - HTML
 - CSS
-
-### Tecnologías y Frameworks
-
-- React
-- Node.js
-- Django
-- Bootstrap
+- Sass
+- jQuery
 
 
-### Bases de Datos
+### Bases de Datos y Herramientas
 
-- MySQL
+- SQL (Sql Server y MySQL)
+- Git
+- Github
 
 
 ## Lenguajes más utilizados
