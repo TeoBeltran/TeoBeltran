@@ -5,7 +5,7 @@ Hola! Me llamo Teo Beltrán Nanziot y tengo 24 años.
 Estoy recibido como Técnico Superior en Programación en la UTN.  
 También soy estudiante de Ciencia de Datos en la UBA.
 
-Me gustan las programación, los juegos de computadora y el football.
+Me gusta programar, los juegos de computadora y el football.
 
 
 ## Mis Habilidades
