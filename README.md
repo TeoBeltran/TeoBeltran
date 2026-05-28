@@ -1,9 +1,9 @@
 # Teo Beltrán.
 
 ## Acerca de mí
-Hola! Me llamo Teo Beltrán Nanziot y tengo 24 años.  
+Hola! Me llamo Teo Beltrán Nanziot y tengo 25 años.  
 Estoy recibido como Técnico Superior en Programación en la UTN.  
-También soy estudiante de Ciencia de Datos en la UBA.
+También soy estudiante de Ingeniería Informática en la UBA.
 
 Me gusta programar, los juegos de computadora y el football.
 
